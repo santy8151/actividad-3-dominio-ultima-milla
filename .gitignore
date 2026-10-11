@@ -1,0 +1,5 @@
+# Build and validation artifacts
+/work/
+/.codex-finalizer/
+/node_modules/
+
