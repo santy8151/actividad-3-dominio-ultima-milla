@@ -23,6 +23,4 @@ Es una propuesta de diseño previa a la implementación. No incluye base de dato
 
 **Enlace al video:** pendiente de agregar cuando esté publicado.
 
-## Abrir en Canva
 
-Descarga el PPTX de `presentacion/`, luego en Canva selecciona **Crear un diseño → Importar archivo**. Las diapositivas están construidas con texto y formas editables.
